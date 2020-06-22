@@ -13,6 +13,11 @@ a defense game that prevents the pouring of university tasks
 ### ● Development Period
  * 2020.04.14 ~ 
 
+# YoutubeLink
+
+[![VIDEO](https://img.youtube.com/vi/0LduexgyBfQ/0.jpg)](https://www.youtube.com/watch?v=0LduexgyBfQ?t=0s)
+
+
 ### ● K-Circle Contest Link
  * [K-Circle](http://www.kmu.ac.kr/uni/main/page.jsp?pageNo=1&pagePrvNxt=1&pageRef=202412&pageOrder=0&cmd=2&parm_bod_uid=202358&srchEnable=1&srchKeyword=&srchSDate=&srchBgpUid=-1&mnu_uid=143&srchEDate=&srchColumn=&srchVoteType=-1&)
 <div>
