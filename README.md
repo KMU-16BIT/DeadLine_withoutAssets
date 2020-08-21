@@ -1,6 +1,10 @@
 # GAME TITLE : DeadLine
 a defense game that prevents the pouring of university tasks
 
+### ● Notice
+ * This project excluded paid assets.
+ * Normal play is impossible and only source code can be checked.
+ 
 ### ● Introduction
  * Department of Game Mobile, Keimyung University
  * Game Designer : 김민건, 정영한
