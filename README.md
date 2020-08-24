@@ -19,7 +19,7 @@ a defense game that prevents the pouring of university tasks
 
 # YoutubeLink
 
-[![VIDEO](https://img.youtube.com/vi/0LduexgyBfQ/0.jpg)](https://www.youtube.com/watch?v=0LduexgyBfQ?t=0s)
+[![VIDEO](https://img.youtube.com/vi/0LduexgyBfQ/0.jpg)](https://youtu.be/UXzLtWcUE4w)
 
 
 ### ● K-Circle Contest Link
